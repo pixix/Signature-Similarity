@@ -17,7 +17,7 @@ setup(
     install_requires=['opencv>=0.4.1',
                       'numpy',
                       'scipy'],
-    
+
     # python_requires='>=3.5.0',
     tests_require=['pytest'],
     classifiers=[
